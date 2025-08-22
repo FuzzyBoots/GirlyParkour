@@ -132,3 +132,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8da365d4ee91d8544a054f28c10cd848, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  _value: 10
+  _pickupEffectPrefab: {fileID: 180128, guid: 6586ff0f14125534cae2f5d8f04b7871, type: 3}

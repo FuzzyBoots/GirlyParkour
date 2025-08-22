@@ -4,9 +4,15 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - Stair
+  - WallRun
+  - Climb
+  - Fly
   - NavMeshSurface
   - NarrowBeam
   - SwingableLedge
+  - Animal
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -23,22 +29,22 @@ TagManager:
   - Ledge
   - 
   - 
+  - BodyPart
+  - 
+  - 
+  - 
+  - 
+  - Animal
+  - 
+  - 
+  - Enemy
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Item
   - 
   m_SortingLayers:
   - name: Default
